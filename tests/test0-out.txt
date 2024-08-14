@@ -1,0 +1,178 @@
+    csv data loaded from data0.txt (12 rows by 6 cols)
+> 
+    column  0: year
+    column  1: month
+    column  2: day
+    column  3: location
+    column  4: mintemp
+    column  5: maxtemp
+> 
+             year (sorted)
+    max =  2020.0
+    min =  2020.0
+    avg =  2020.0
+    med =  2020.0
+
+            month (sorted)
+    max =     9.0
+    min =     8.0
+    avg =     8.3
+    med =     8.0
+
+              day
+    max =    31.0
+    min =     1.0
+    avg =    20.2
+
+         location
+    max =    22.0
+    min =    18.0
+    avg =    20.0
+
+          mintemp
+    max =    16.1
+    min =     6.7
+    avg =    10.8
+
+          maxtemp
+    max =    27.2
+    min =    12.9
+    avg =    20.0
+> 
+          mintemp
+    max =    16.1
+    min =     6.7
+    avg =    10.8
+
+          maxtemp
+    max =    27.2
+    min =    12.9
+    avg =    20.0
+> 
+          mintemp
+    max =    16.1
+    min =     6.7
+    avg =    10.8
+
+            month (sorted)
+    max =     9.0
+    min =     8.0
+    avg =     8.3
+    med =     8.0
+> 
+          mintemp
+    max =    16.1
+    min =     6.7
+    avg =    10.8
+
+          maxtemp
+    max =    27.2
+    min =    12.9
+    avg =    20.0
+
+          mintemp
+    max =    16.1
+    min =     6.7
+    avg =    10.8
+> 
+                   month
+            year
+     day
+    28.0  2020.0     8.0    ( 2 instances)
+    29.0  2020.0     8.0    ( 2 instances)
+    30.0  2020.0     8.0    ( 2 instances)
+    31.0  2020.0     8.0    ( 2 instances)
+     1.0  2020.0     9.0    ( 2 instances)
+     2.0  2020.0     9.0    ( 2 instances)
+> 
+           month
+    year
+  2020.0     8.0    ( 8 instances)
+  2020.0     9.0    ( 4 instances)
+> 
+                             day
+                location
+            year
+     day
+    28.0  2020.0    18.0    28.0    ( 1 instance)
+    28.0  2020.0    22.0    28.0    ( 1 instance)
+    29.0  2020.0    18.0    29.0    ( 1 instance)
+    29.0  2020.0    22.0    29.0    ( 1 instance)
+    30.0  2020.0    18.0    30.0    ( 1 instance)
+    30.0  2020.0    22.0    30.0    ( 1 instance)
+    31.0  2020.0    18.0    31.0    ( 1 instance)
+    31.0  2020.0    22.0    31.0    ( 1 instance)
+     1.0  2020.0    18.0     1.0    ( 1 instance)
+     1.0  2020.0    22.0     1.0    ( 1 instance)
+     2.0  2020.0    18.0     2.0    ( 1 instance)
+     2.0  2020.0    22.0     2.0    ( 1 instance)
+> 
+    sorted by: location, year, month, day
+> 
+                   month
+            year
+location
+    18.0  2020.0     8.0    ( 4 instances)
+    18.0  2020.0     9.0    ( 2 instances)
+    22.0  2020.0     8.0    ( 4 instances)
+    22.0  2020.0     9.0    ( 2 instances)
+> 
+        6.7 +
+          4 |]]]]]
+          5 |
+        8.7 +
+          4 |]
+          5 |
+       10.8 +
+          4 |]
+          5 |
+       12.8 +
+          4 |]]]]
+          5 |]
+       14.9 +
+          4 |]
+          5 |]]]
+       16.9 +
+          4 |
+          5 |
+       19.0 +
+          4 |
+          5 |]
+       21.1 +
+          4 |
+          5 |]]]]
+       23.1 +
+          4 |
+          5 |]]
+       25.2 +
+          4 |
+          5 |]
+       27.2 +
+    scale = 1
+> 
+        6.7 +
+          4 |]]]]
+        7.6 +
+          4 |
+        8.6 +
+          4 |]]
+        9.5 +
+          4 |
+       10.5 +
+          4 |
+       11.4 +
+          4 |
+       12.3 +
+          4 |]]]
+       13.3 +
+          4 |]]
+       14.2 +
+          4 |
+       15.2 +
+          4 |]
+       16.1 +
+    scale = 1
+> 
+all selected elements are 2020.0
+> 
+Ta daa!!!
